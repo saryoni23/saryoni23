@@ -33,9 +33,8 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 </p>
-
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=saryoni23&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api?username=saryoni23">
   </br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&layout=compact")
 </p>

@@ -32,9 +32,9 @@
 
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=saryoni23">
+ <img src="https://github-readme-stats.vercel.app/api?username=saryoni23&hide=contribs&show_icons=true&theme=slateorange">
   </br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&layout=compact")
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&layout=compact&theme=slateorange")
 </p>
 
 <h3 align="center">Follow Me Here</h3>

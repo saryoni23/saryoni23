@@ -22,7 +22,7 @@
 
 <h1 align="center">Hi I'm Saryoni23 👋</h1>
 
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Backend Developer</h3>
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -42,7 +42,7 @@
   <a href="https://www.youtube.com/channel/UCK0saQE1-FyfszGulbI6isw/">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-   <a href="https://www.instagram.com/indra_saryoni/">
+  <a href="https://www.instagram.com/indra_saryoni/">
     <img src="https://img.shields.io/badge/Instagram-A8399B?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  </p>
+</p>

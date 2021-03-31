@@ -34,7 +34,7 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=saryoni23&hide=contribs&show_icons=true&theme=slateorange">
   </br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&layout=compact&theme=slateorange")
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saryoni23&theme=slateorange")
 </p>
 
 <h3 align="center">Follow Me Here</h3>
@@ -46,3 +46,4 @@
     <img src="https://img.shields.io/badge/Instagram-A8399B?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+

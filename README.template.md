@@ -4,7 +4,7 @@
   </p>
 </a>
 <p align="center">
-    <a href="https://github.com/saryoni23"><img src="https://badges.pufler.dev/visits/saryoni23/saryoni23"/></a>
+    <a href="https://github.com/saryoni23"><img src="https://img.shields.io/badge/github-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/></a>
     <a href="https://twitter.com/ISaryoni"><img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"/></a>
     <a href="(https://www.linkedin.com/in/indra-saryoni-simanjuntak/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/></a>
     <a href="https://codepen.io/saryoni23"><img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=0D76A8"/></a>

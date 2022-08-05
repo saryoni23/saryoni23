@@ -9,14 +9,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: master/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: saryoni23/blog-post-workflow@v1
         with:
-        readme_path: 'README.md, README.template.md'
-          user_agent: "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
-          max_post_count: "5"
-          remove_duplicates: true
-          feed_list: "https://indrasaryoni.dev/feeds/posts/default"
-          disable_item_validation: true
-          item_exec: |
-                if(!post.title) post = null;
+          feed_list: "https://indrasaryoni.blogspot.com/feeds/posts/default"

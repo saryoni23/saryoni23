@@ -101,3 +101,8 @@ Want to know more about me? [Check out my portfolio.](https://saryoni23.github.i
 </details>
 
 <br>
+<a href="https://trakteer.id/saryoni23/tip?quantity=1">
+  <p align="center">
+<img src="./assets/trakteer.png"/>
+      </p>
+</a>

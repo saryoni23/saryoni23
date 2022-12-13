@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.buymeacoffee.com/saryoni23">
   <p align="center">
-<img src="./assets/coffee.jpeg"/>
+<img src="./assets/coffee.jpeg" alt="Image" style="width:600px;height:300px;"/>
       </p>
 </a>
 <p align="center">
